@@ -1,3 +1,7 @@
 uvicorn~=0.17.5
 python-dotenv~=0.19.2
 fastapi~=0.74.1
+python-multipart
+https://github.com/lorak0123/price_predictor.git
+pandas~=1.4.2
+pydantic~=1.9.0
