@@ -1,12 +1,14 @@
 # Price predictor - Main app and API
 
 The main part of the application for predicting cryptocurrency prices.
+Here is placed the application API, which contains 3 endpoints (server information, prediction with information whether to buy or sell, prediction with information when to buy, sell and what will be the profit).
 
 ## Installation
 
 Command to run: `docker compose up`
 
-## Part of README from price_predictor
+
+### Part of README from price_predictor
 
 The script is responsible for prediction of cryptocurrency price values. When the script is running, a DataFrame object is prepared, of which the price is also a set `X`, and a price column is created as a set `y` which is an offset of the column from the set `X` by the specified number of days (by default 30 days). 
 
