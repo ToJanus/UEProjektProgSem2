@@ -1,3 +1,6 @@
+## Advise
+Do not use this with investor purposes, this can be used only with student proposals.
+
 # Price predictor - Main app and API
 
 The main part of the application for predicting cryptocurrency prices.
